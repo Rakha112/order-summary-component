@@ -111,6 +111,13 @@ body {
   font-size: 14px;
   font-weight: 700;
   margin-right: 10px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.container .card .plan a:hover {
+  text-decoration: none;
+  color: #766cf1;
 }
 
 .container .card .button {
@@ -132,6 +139,13 @@ body {
   cursor: pointer;
   -webkit-box-shadow: 0px 20px 30px rgba(56, 41, 224, 0.3);
           box-shadow: 0px 20px 30px rgba(56, 41, 224, 0.3);
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.container .card .button button:hover {
+  background-color: #766cf1;
+  /* Green */
 }
 
 .container .card .cancel {
@@ -145,8 +159,15 @@ body {
 }
 
 .container .card .cancel a {
+  border: none;
   text-decoration: none;
   color: #7280a7;
   font-weight: 700;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.container .card .cancel a:hover {
+  color: #1f2f56;
 }
 /*# sourceMappingURL=index.css.map */

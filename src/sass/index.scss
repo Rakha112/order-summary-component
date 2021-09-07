@@ -77,6 +77,11 @@ body {
         font-size: 14px;
         font-weight: 700;
         margin-right: 10px;
+        transition: all 0.5s ease;
+      }
+      a:hover {
+        text-decoration: none;
+        color: #766cf1;
       }
     }
     .button {
@@ -94,6 +99,10 @@ body {
         font-size: 15px;
         cursor: pointer;
         box-shadow: 0px 20px 30px hsla(245, 75%, 52%, 0.3);
+        transition: all 0.5s ease;
+      }
+      button:hover {
+        background-color: #766cf1; /* Green */
       }
     }
     .cancel {
@@ -101,9 +110,14 @@ body {
       justify-content: center;
       margin-bottom: 34px;
       a {
+        border: none;
         text-decoration: none;
         color: $Desaturated_blue;
         font-weight: 700;
+        transition: all 0.5s ease;
+      }
+      a:hover {
+        color: $Dark_blue;
       }
     }
     border-radius: 18px;
