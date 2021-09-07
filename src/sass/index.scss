@@ -10,7 +10,8 @@
 body {
   background-image: url("../images/pattern-background-mobile.svg");
   background-position: top; /* Center the image */
-  background-repeat: no-repeat, repeat;
+  background-repeat: no-repeat;
+  background-size: contain;
   background-color: $Pale_blue;
 }
 .container {
