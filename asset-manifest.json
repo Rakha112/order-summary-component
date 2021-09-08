@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/order-summary-component/static/css/main.a1ae83ee.chunk.css",
+    "main.css": "/order-summary-component/static/css/main.d33fc150.chunk.css",
     "main.js": "/order-summary-component/static/js/main.39707f14.chunk.js",
     "main.js.map": "/order-summary-component/static/js/main.39707f14.chunk.js.map",
     "runtime-main.js": "/order-summary-component/static/js/runtime-main.9fa32c1e.js",
@@ -8,7 +8,7 @@
     "static/js/2.cbb45b93.chunk.js": "/order-summary-component/static/js/2.cbb45b93.chunk.js",
     "static/js/2.cbb45b93.chunk.js.map": "/order-summary-component/static/js/2.cbb45b93.chunk.js.map",
     "index.html": "/order-summary-component/index.html",
-    "static/css/main.a1ae83ee.chunk.css.map": "/order-summary-component/static/css/main.a1ae83ee.chunk.css.map",
+    "static/css/main.d33fc150.chunk.css.map": "/order-summary-component/static/css/main.d33fc150.chunk.css.map",
     "static/js/2.cbb45b93.chunk.js.LICENSE.txt": "/order-summary-component/static/js/2.cbb45b93.chunk.js.LICENSE.txt",
     "static/media/icon-music.f20c7787.svg": "/order-summary-component/static/media/icon-music.f20c7787.svg",
     "static/media/illustration-hero.73032583.svg": "/order-summary-component/static/media/illustration-hero.73032583.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.9fa32c1e.js",
     "static/js/2.cbb45b93.chunk.js",
-    "static/css/main.a1ae83ee.chunk.css",
+    "static/css/main.d33fc150.chunk.css",
     "static/js/main.39707f14.chunk.js"
   ]
 }
